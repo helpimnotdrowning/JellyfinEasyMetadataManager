@@ -43,3 +43,23 @@ hs_err_pid*
 replay_pid*
 /nbproject/
 nbactions.xml
+
+# generic gradle exclusions from a minecraft mod
+build/
+*.ipr
+run/
+*.iws
+out/
+*.iml
+.gradle/
+output/
+bin/
+libs/
+
+.classpath
+.project
+classes/
+.metadata
+.vscode
+.settings
+*.launch
